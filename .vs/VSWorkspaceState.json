@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\1",
+    "\\1\\Exp1",
+    "\\1\\Exp1\\Exp1"
   ],
-  "SelectedNode": "\\F:\\C#-SEE",
+  "SelectedNode": "\\1\\Exp1\\Exp1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
