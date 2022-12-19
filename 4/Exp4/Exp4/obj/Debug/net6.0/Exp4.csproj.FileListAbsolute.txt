@@ -1,0 +1,15 @@
+F:\C#-SEE\4\Exp4\Exp4\bin\Debug\net6.0\Exp4.exe
+F:\C#-SEE\4\Exp4\Exp4\bin\Debug\net6.0\Exp4.deps.json
+F:\C#-SEE\4\Exp4\Exp4\bin\Debug\net6.0\Exp4.runtimeconfig.json
+F:\C#-SEE\4\Exp4\Exp4\bin\Debug\net6.0\Exp4.dll
+F:\C#-SEE\4\Exp4\Exp4\bin\Debug\net6.0\Exp4.pdb
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.csproj.AssemblyReference.cache
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.AssemblyInfoInputs.cache
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.AssemblyInfo.cs
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.csproj.CoreCompileInputs.cache
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.dll
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\refint\Exp4.dll
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.pdb
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\Exp4.genruntimeconfig.cache
+F:\C#-SEE\4\Exp4\Exp4\obj\Debug\net6.0\ref\Exp4.dll
