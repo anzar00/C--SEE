@@ -1,0 +1,15 @@
+F:\C#-SEE\14\Exp14\Exp14\bin\Debug\net6.0\Exp14.exe
+F:\C#-SEE\14\Exp14\Exp14\bin\Debug\net6.0\Exp14.deps.json
+F:\C#-SEE\14\Exp14\Exp14\bin\Debug\net6.0\Exp14.runtimeconfig.json
+F:\C#-SEE\14\Exp14\Exp14\bin\Debug\net6.0\Exp14.dll
+F:\C#-SEE\14\Exp14\Exp14\bin\Debug\net6.0\Exp14.pdb
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.csproj.AssemblyReference.cache
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.AssemblyInfoInputs.cache
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.AssemblyInfo.cs
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.csproj.CoreCompileInputs.cache
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.dll
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\refint\Exp14.dll
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.pdb
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\Exp14.genruntimeconfig.cache
+F:\C#-SEE\14\Exp14\Exp14\obj\Debug\net6.0\ref\Exp14.dll
