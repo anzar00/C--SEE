@@ -1,0 +1,15 @@
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.csproj.AssemblyReference.cache
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.AssemblyInfoInputs.cache
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.AssemblyInfo.cs
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.csproj.CoreCompileInputs.cache
+F:\C#-SEE\7\Exp7\Exp7\bin\Debug\net6.0\Exp7.exe
+F:\C#-SEE\7\Exp7\Exp7\bin\Debug\net6.0\Exp7.deps.json
+F:\C#-SEE\7\Exp7\Exp7\bin\Debug\net6.0\Exp7.runtimeconfig.json
+F:\C#-SEE\7\Exp7\Exp7\bin\Debug\net6.0\Exp7.dll
+F:\C#-SEE\7\Exp7\Exp7\bin\Debug\net6.0\Exp7.pdb
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.dll
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\refint\Exp7.dll
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.pdb
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\Exp7.genruntimeconfig.cache
+F:\C#-SEE\7\Exp7\Exp7\obj\Debug\net6.0\ref\Exp7.dll
